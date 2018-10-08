@@ -17,7 +17,7 @@
 
 香橙派zero主板(256M内存版49元)+外壳+电源+运费=90元
 
-16G class 10 TF 内存卡一张 = 40元
+16G class 10 TF 内存卡一张 = 30元
 
 软件：ARMBIAN 5.38 stable Ubuntu 16.04   pi-net
 
